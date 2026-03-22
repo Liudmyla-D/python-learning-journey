@@ -1,45 +1,55 @@
 # 🐍 python-learning-journey
 
-✨ **First steps in Python:** homework, mini scripts, and a progress log *(Data Analyst in IT)*.
+✨ **My Python learning path:** homework, mini projects, and hands-on practice *(Data Analyst track)*.
 
 ---
 
 ## ✅ What’s inside
-📚 Домашні завдання у форматі **Jupyter Notebook (.ipynb)** з практикою по основних темах Python.
+📚 Домашні завдання у форматі **Jupyter Notebook (.ipynb)**, згруповані за модулями навчання.
 
 ---
 
 ## 🧠 Topics covered
-- 🧩 **Syntax basics**: змінні, типи даних, базові операції  
-- ➕ **Data operations**: числові обчислення, перетворення типів, робота з рядками  
-- 📦 **Collections**: списки, кортежі, словники, множини  
-- 🔀 **Control Flow**: `if / elif / else`, логічні оператори  
-- 🔁 **Loops**: `for`, `while`, форматування виводу  
-- 🧾 **Comprehensions**: list/dict/set comprehensions  
-- 🧠 **Functions**: параметри/аргументи, `return`, область видимості  
-- 📚 **Modules**: імпорт, структура модулів  
-- ⚠️ **Exceptions**: `try / except / else / finally`, обробка помилок
+
+### 📦 Module 9 — Python basics
+- 🧩 синтаксис, типи даних  
+- 🔀 умови (`if / else`)  
+- 🔁 цикли (`for`, `while`)  
+- 📦 колекції (list, dict, set)  
+- 🧠 функції  
+- ⚠️ обробка помилок, модулі  
+
+### 📊 Module 10 — Data analysis (Pandas, NumPy)
+- 🧮 робота з масивами та таблицями  
+- 🔍 очищення та трансформація даних  
+- 📊 `groupby`, `apply`, `pivot`  
+
+### 📈 Module 11 — Data visualization
+- 📊 візуалізація з **Matplotlib** та **Seaborn**  
+- ⚡ інтерактивні графіки з **Plotly**  
+
+### 🔗 Module 12 — Data & integration
+- 🗄 SQL + Python  
+- 🔄 робота з транзакціями  
+- 🌐 API та ETL-пайплайн  
 
 ---
 
 ## 🗂 Repository structure
-📌 Нотатники згруповані за домашніми завданнями:
-- 📝 `hw_9_1_*` — синтаксис, операції з даними  
-- 📦 `hw_9_2_*` — колекції  
-- 🔁 `hw_9_3_*` — цикли та comprehensions  
-- 🧠 `hw_9_4_*` — функції (основи + продовження)  
-- ⚠️ `hw_9_5_*` — модулі та винятки  
+- 📁 `module_09` — базовий Python  
+- 📁 `module_10` — аналіз даних  
+- 📁 `module_11` — візуалізація  
+- 📁 `module_12` — SQL, API, ETL  
+- 📁 `additional_tasks` — додаткова практика  
 
 ---
 
 ## ▶️ How to run
-1️⃣ Відкрий notebook у **Jupyter / JupyterLab**  
-2️⃣ Запускай клітинки зверху вниз ▶️  
-3️⃣ За потреби встанови бібліотеки через `pip` / `conda` 🛠️
+1️⃣ Відкрити notebook у **Jupyter / JupyterLab**  
+2️⃣ Запускати клітинки зверху вниз ▶️  
+3️⃣ За потреби встановити бібліотеки (`pip` / `conda`) 🛠️  
 
 ---
 
 ## 🚀 Goal
-🎯 Закріпити базу Python через практику та зібрати навчальний прогрес в одному місці.
-
----
+🎯 Закріпити Python та аналітичні навички через практичні задачі і створити портфоліо.
